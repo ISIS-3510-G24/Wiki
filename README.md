@@ -37,11 +37,7 @@ Welcome to the **Mobile 3510** wiki repository! 🎉 This repository contains ou
   </a>
 </p>
 
-
-
-## 📚 Key Resources
-- [**Wiki Home**](https://github.com/isis-3510-g22/wiki/wiki)  
-  Visit our [Wiki](https://github.com/isis-3510-g22/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
+Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
 ## 👥 Team Members
 | Name         | Role                |
