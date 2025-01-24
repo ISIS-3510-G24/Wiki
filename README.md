@@ -1,4 +1,4 @@
-Welcome to the **Mobile 3510** repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
+Welcome to the **Mobile 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
 
 <h3 align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
