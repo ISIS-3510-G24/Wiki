@@ -1,3 +1,5 @@
+Welcome to the **Mobile 3510** repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
+
 <h3 align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
   
@@ -11,9 +13,6 @@
   <img src="https://img.shields.io/badge/iOS%20App-Flutter-blueviolet" alt="iOS App: Flutter" />
 </p>
 
-
-
-All the documentations for the Mobile 3510 course project, all sprint deliverables, app reports, and progress are documented here.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -29,9 +28,6 @@ All the documentations for the Mobile 3510 course project, all sprint deliverabl
 </p>
 
 
-# Mobile 3510 Wiki Repository
-
-Welcome to the **Mobile 3510** repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
 
 ## 📚 Key Resources
 - [**Wiki Home**](https://github.com/isis-3510-g22/wiki/wiki)  
