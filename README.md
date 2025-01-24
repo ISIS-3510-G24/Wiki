@@ -20,3 +20,5 @@ Welcome to the **Mobile 3510** repository! 🎉 This repository contains our tea
 | Member 1     | Scrum Master        |
 | Member 2     | Developer           |
 | Member 3     | Tester              |
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
