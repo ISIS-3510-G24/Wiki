@@ -4,7 +4,7 @@
   Mobile Development 3510 Wiki <br>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isis3510-g24&label=Profile%20views&color=0e75b6&style=flat" alt="isis3510-g24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isis3510-g24&label=Views%20&color=0e75b6&style=flat" alt="isis3510-g24" /> </p>
 
 All the documentations for the Mobile 3510 course project, all sprint deliverables, app reports, and progress are documented here.
 
