@@ -1,4 +1,7 @@
-<h3 align="top">Mobile 3510 Wiki <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"></h3>
+<h3 align="center">
+  Mobile 3510 Wiki <br>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isis3510-g24&label=Profile%20views&color=0e75b6&style=flat" alt="isis3510-g24" /> </p>
 
