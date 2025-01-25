@@ -69,20 +69,6 @@ Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repos
   </tr>
 </table>
 
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/>
-  </a>
-</p>
-
 Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
