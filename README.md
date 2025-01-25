@@ -1,4 +1,4 @@
-Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
+Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more. Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
 <h1 align="center">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><br>
@@ -68,7 +68,5 @@ Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repos
     </td>
   </tr>
 </table>
-
-Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
