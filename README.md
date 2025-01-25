@@ -1,10 +1,10 @@
-Welcome to the **Mobile 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
+Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more.
 
-<h3 align="center">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
-  
-  Mobile Development 3510 Wiki <br>
-</h3>
+<h1 align="center">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><br>
+  Mobile Development 3510 Wiki
+</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isis3510-g24&label=Views%20&color=0e75b6&style=flat" alt="isis3510-g24" />
@@ -22,6 +22,52 @@ Welcome to the **Mobile 3510** wiki repository! 🎉 This repository contains ou
   </a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="80"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/>
+  </a>
+</p>
+
+
+---
+
+## Team
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fbcfbe5d-fa43-4ade-806b-b1ef0c10ba3c" alt="Juan Jose Diaz" width="100" height="100" style="border-radius: 50%;"><br>
+      <b>Juan Jose Diaz</b><br>
+      @jjdiazo1
+    </td>
+<td align="center">
+      <img src="https://github.com/user-attachments/assets/9451b5a1-d456-43d5-9058-22fa53fde27b" alt="Laura Lara" width="100" height="100" style="border-radius: 50%;"><br>
+      <b>Laura Lara</b><br>
+      @lauralara13021
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ce18a1d5-a153-4eb9-ad3f-bce7eff3e4cd" alt="Germán Rojas" width="100" height="100" style="border-radius: 50%;"><br>
+      <b>Germán Rojas</b><br>
+      grojasc1
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7f6fb744-9cf8-4b2a-8dbf-20899a1a5b3b" alt="Mateo Lopez" width="100" height="100" style="border-radius: 50%;"><br>
+      <b>Mateo Lopez</b><br>
+      @Mateo-Lopez83
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/07dcfa3b-bc4c-469c-ba18-f5e1dead190b" alt="Juan Manuel Ramirez" width="100" height="100" style="border-radius: 50%;"><br>
+      <b>Juan Manuel Ramirez</b><br>
+      @NEXAF7
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">Languages and Tools:</h3>
