@@ -39,11 +39,4 @@ Welcome to the **Mobile 3510** wiki repository! 🎉 This repository contains ou
 
 Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
-## 👥 Team Members
-| Name         | Role                |
-|--------------|---------------------|
-| Member 1     | Scrum Master        |
-| Member 2     | Developer           |
-| Member 3     | Tester              |
-
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
