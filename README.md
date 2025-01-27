@@ -43,7 +43,7 @@ Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repos
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/fbcfbe5d-fa43-4ade-806b-b1ef0c10ba3c" alt="Juan Jose Diaz" width="100" height="100" style="border-radius: 50%;"><br>
-      <b>Juan Jose Diaz</b><br>
+      <b>Juan José Diaz</b><br>
       @jjdiazo1
     </td>
 <td align="center">
@@ -58,12 +58,12 @@ Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repos
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7f6fb744-9cf8-4b2a-8dbf-20899a1a5b3b" alt="Mateo Lopez" width="100" height="100" style="border-radius: 50%;"><br>
-      <b>Mateo Lopez</b><br>
+      <b>Mateo López</b><br>
       @Mateo-Lopez83
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/07dcfa3b-bc4c-469c-ba18-f5e1dead190b" alt="Juan Manuel Ramirez" width="100" height="100" style="border-radius: 50%;"><br>
-      <b>Juan Manuel Ramirez</b><br>
+      <b>Juan Manuel Ramírez</b><br>
       @NEXAF7
     </td>
   </tr>
