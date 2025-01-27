@@ -54,7 +54,7 @@ Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repos
     <td align="center">
       <img src="https://github.com/user-attachments/assets/ce18a1d5-a153-4eb9-ad3f-bce7eff3e4cd" alt="Germán Rojas" width="100" height="100" style="border-radius: 50%;"><br>
       <b>Germán Rojas</b><br>
-      grojasc1
+      @grojasc1
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7f6fb744-9cf8-4b2a-8dbf-20899a1a5b3b" alt="Mateo Lopez" width="100" height="100" style="border-radius: 50%;"><br>
