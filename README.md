@@ -1,3 +1,22 @@
+
+<p align="center">
+  <a href="https://github.com/ISIS-3510-G24/Wiki/wiki" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wiki-gray" alt="Home" />
+  </a>
+<a href="https://github.com/orgs/ISIS-3510-G24/projects/1" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tasks-gray" alt="Projects" />
+  </a>
+<a href="https://github.com/orgs/ISIS-3510-G24/projects/1/insights" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Insights-gray" alt="Insights" />
+  </a>
+  <span style="margin: 0 30px; color: #666; font-size: 44px;">┃</span>
+  <a href="https://github.com/ISIS-3510-G24/Wiki/wiki/App-Report-%E2%80%90-Flutter" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AppReport%20Flutter-blue" alt="AppFlutter" />
+  </a>
+  <a href="https://github.com/ISIS-3510-G24/Wiki/wiki/App-Report-%E2%80%90-Kotlin" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AppReport%20Kotlin-brown" alt="AppKotlin" />
+  </a>
+  
 Welcome to the **Mobile Development ISIS 3510** wiki repository! 🎉 This repository contains our team's work for the course, including app documentation, sprint deliverables, and more. Visit our [Wiki](https://github.com/isis-3510-g24/wiki/wiki)  for a detailed overview of our progress, app reports, and technical documentation.
 
 <h1 align="center">
